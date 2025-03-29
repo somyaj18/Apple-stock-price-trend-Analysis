@@ -66,7 +66,7 @@ Potential breakout and reversal patterns using candlestick analysis.
 
 Trend analysis using moving averages.
 
-##Tools & Technologies Used
+## Tools & Technologies Used
 
 Google Data Studio (Visualization & Dashboard Creation)
 
