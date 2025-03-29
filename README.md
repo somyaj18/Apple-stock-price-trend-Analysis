@@ -1,10 +1,10 @@
 # Apple-stock-price-trend-Analysis
 
-##Overview
+## Overview
 
 This project analyzes the stock price trends of Apple Inc. (AAPL) using Google Data Studio. The dataset includes historical stock price data obtained from Yahoo Finance/Google Finance, allowing us to visualize and interpret market trends.
 
-##Objectives
+## Objectives
 
 Perform time-series analysis on Apple stock prices.
 
@@ -14,25 +14,25 @@ Compute moving averages to smooth price fluctuations.
 
 Identify patterns in daily price changes and trading volumes.
 
-##Data Sources
+## Data Sources
 
 Yahoo Finance / Google Finance
 
-###Stock price data includes:
+### Stock price data includes:
 
-Date
+        Date
+        
+        Open Price
+        
+        High Price
+        
+        Low Price
+        
+        Close Price
+        
+        Trading Volume
 
-Open Price
-
-High Price
-
-Low Price
-
-Close Price
-
-Trading Volume
-
-##Data Visualizations
+## Data Visualizations
 
 1. Line Chart (Date vs. Close Price)
 
@@ -56,7 +56,7 @@ Helps assess the correlation between price movement and volume.
 
 3. Table Chart (Top 10 Date vs. Trading Volume)
 
-##Key Insights
+## Key Insights
 
 Stock price fluctuations over time and significant highs/lows.
 
@@ -74,7 +74,7 @@ Google Sheets (Data Storage & Processing)
 
 Yahoo Finance/Google Finance (Data Source)
 
-##How to Use
+## How to Use
 
 Import Data: Load the Apple stock dataset into Google Sheets.
 
@@ -86,7 +86,7 @@ Analyze Trends: Identify patterns in stock prices and volume.
 
 Apply Computations: Compute moving averages for deeper insights.
 
-##Future Enhancements
+## Future Enhancements
 
 Predictive Analysis: Use machine learning to forecast future stock prices.
 
@@ -94,7 +94,7 @@ Sentiment Analysis: Analyze news sentiment impact on stock trends.
 
 Comparative Analysis: Compare AAPL stock trends with other tech companies.
 
-###Author
+### Author
 SOMYA JAIN
 
 Data Analyst | Machine Learning Enthusiast
